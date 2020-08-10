@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
     <img src="./public/images/logo-purple.svg" height="170" wight="150" alt="Logo Proffy" >
-</p>
+</h1>
 
 <h3 align="center">
     Sua plataforma de estudo online!
