@@ -48,4 +48,4 @@ Esse projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais
 
 ---
 
-Feito com 💜 por [Ecthon](https://github.com/ecthon) 👾. 
+Feito com 💜 por [Ecthon](https://github.com/ecthon) 👾
