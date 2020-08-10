@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/images/logo-purple.svg" height="170" wight="150" alt="Proffy" >
+    <img src="./public/images/logo-purple.svg" height="170" wight="150" alt="Logo Proffy" >
 </p>
 
 <h3 align="center">
@@ -44,7 +44,7 @@ npm run dev
 
 ## 📃 License
 
-Esse projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
