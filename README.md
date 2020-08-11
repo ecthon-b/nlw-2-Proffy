@@ -44,8 +44,8 @@ npm run dev
 
 ## 📃 License
 
-EditanEsse projeto está sob licença MIT. Veja o arquivo [LICENSE](https://github.com/ecthon/nlw-2-Proffy/blob/master/LICENSE) para mais detalhes.
+EditanEsse projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com 💜 por [Ecthon](https://github.com/ecthon) 👾
+Feito com 💜 por [Ecthon](https://github.com/ecthon) 👾.
